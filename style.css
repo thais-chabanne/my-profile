@@ -1,0 +1,148 @@
+
+
+body {
+    font-family: Times, serif;
+    text-align: center;
+
+    margin: 0px;
+    background-color: black;
+    }
+
+    h1 {
+    color: black
+    }
+
+    h2 { 
+    font-size: 25px;
+    }
+
+    p {
+    font-size: 16px;
+    }
+
+    h3 {
+    font-size: 20px;
+    text-decoration: underline;
+    }
+
+    img {
+    font-size: small;
+    height: 8cm;
+    width: 6cm;
+    border-radius: 20px;
+    }
+
+    h4 {
+    font-size: 20px;
+    text-decoration: underline;
+    }
+    h5 {
+        font-size: 20px;
+        text-decoration: underline;
+    }
+    #first-img {
+    
+        height: 6cm;
+        width: 8cm;
+        size:10px
+    }
+
+    #second-img {
+        height: 8cm;
+        width: 10cm;
+        size: 10px;
+    }
+
+    #third-img {
+        height: 8cm;
+        width: 6cm;
+    }
+    h6 {
+        font-size: 15px;
+        font-style: italic;
+        color:rgb(0, 0, 0);
+        margin: 0;
+        font-weight: lighter;
+    }
+    h7 {
+        font-size:20px;
+        text-decoration: underline;
+        margin: 10px;
+        
+
+    }
+    h8 {
+        font-style: italic;
+        color: rgb(1, 1, 1);
+        font-weight: lighter;
+    }
+    
+    .première {
+    
+    margin:25px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    width: 35%;
+    margin:0 auto
+    
+    
+    }
+
+    .deuxième {
+
+        margin:25px;
+        border-radius: 30px;
+        background-color: rgb(255, 255, 255);
+        width: 45%;
+        margin:0 auto
+    }
+
+    .photo {
+        background-color: white;
+        width: 500px;
+        margin: 30px auto;
+        padding: 30px;
+        border-radius: 30px;
+    }
+
+    .histoire {
+        background-color: white;
+        width: 700px;
+        margin: 30px auto;
+        padding: 30px;
+        border-radius: 30px;
+    }
+
+    .naissance {
+        background-color: white;
+        width: 700px;
+        margin: 30px auto;
+        padding: 30px;
+        border-radius: 30px;
+    }
+
+    .succès {
+        background-color: white;
+        width: 700px;
+        margin: 30px auto;
+        padding: 30px;
+        border-radius: 30px;
+    }
+
+    .peaky {
+        background-color: white;
+        width: 700px;
+        margin: 30px auto;
+        padding: 30px;
+        border-radius: 30px;
+    }
+
+    .nouveau  {
+        background-color: white;
+        width: 600px;
+        margin: 30px auto;
+        padding: 30px;
+        border-radius: 30px;
+    }
+
+
